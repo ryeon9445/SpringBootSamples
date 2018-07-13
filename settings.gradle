@@ -1,3 +1,4 @@
 rootProject.name = 'SpringBootSamples'
 include 'Start'
+include 'Batch'
 
