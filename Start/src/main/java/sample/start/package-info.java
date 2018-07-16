@@ -3,4 +3,4 @@
  *
  * https://spring.io/guides/gs/spring-boot/
  */
-package hello;
+package sample.start;
