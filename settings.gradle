@@ -3,4 +3,5 @@ include 'Start'
 include 'Batch'
 include 'Elasticsearch'
 include 'Logback'
+include 'Activemq'
 
