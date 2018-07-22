@@ -7,7 +7,6 @@
 ## Batch
 * Reference : https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-batch 
 
-
 ## ElasticSearch
 * SpringBoot Version : 1.5.1.RELEASE
 * ElasticSearch Version : 2.4.2
@@ -18,3 +17,6 @@
 
 ## Activemq
 * Reference : https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-activemq
+
+## Hateoas
+* Reference : https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-hateoas
