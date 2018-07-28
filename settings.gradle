@@ -5,4 +5,5 @@ include 'Elasticsearch'
 include 'Logback'
 include 'Activemq'
 include 'Hateoas'
+include 'Quartz'
 
