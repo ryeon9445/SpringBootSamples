@@ -6,4 +6,5 @@ include 'Logback'
 include 'Activemq'
 include 'Hateoas'
 include 'Quartz'
+include 'Profile'
 
