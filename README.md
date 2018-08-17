@@ -26,3 +26,6 @@
 
 ## Profile
 * Reference : https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-profile
+
+## WebStatic
+* Reference : https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-web-static

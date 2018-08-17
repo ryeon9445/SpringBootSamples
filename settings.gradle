@@ -7,4 +7,5 @@ include 'Activemq'
 include 'Hateoas'
 include 'Quartz'
 include 'Profile'
+include 'WebStatic'
 
