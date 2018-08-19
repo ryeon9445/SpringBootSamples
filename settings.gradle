@@ -8,4 +8,5 @@ include 'Hateoas'
 include 'Quartz'
 include 'Profile'
 include 'WebStatic'
+include 'TestNg'
 
